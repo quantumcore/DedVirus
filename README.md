@@ -8,7 +8,6 @@ See Video [Ded.exe vs Windows 7](https://youtu.be/e99s5vvG0cw)
 Please do not Run this on your Computer. I am not responsible. Use a Virtual Machine to test it out.
 It is created in C++. And works on mostly every Windows. 
 
-Join [Fast Corporation](www.facebook.com/fastisbac)
 
 Works on 
 *Windows 10*
@@ -16,4 +15,3 @@ Works on
 *Windows 7*
 *Other Windows*
 
-It's not tested if it works on Linux or MacOs. 
